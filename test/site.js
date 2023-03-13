@@ -121,6 +121,6 @@ function loadLang() {
 }
 
 window.addEventListener('load', function () {
-	getE("status").style.backgroundColor = "#3c5";
+	getE("status").style.backgroundColor = "#ffffff";
 	getE("status").innerHTML = "connected";
 });
